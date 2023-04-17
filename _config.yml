@@ -25,7 +25,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 2 # amount of posts to show
 paginate_path: /page:num/
 timezone: Canada/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -58,15 +58,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Practice with metronome."
   links:
-    - label: "Website"
+    - label: "www"
       icon: "fas fa-fw fa-link"
-      url: "https://marcusbooke.github.io/"
+      url: "https://marcusbooke.github.io/continuumetcetera/"
 
 footer:
   links:
     - label: "www"
       icon: "fas fa-fw fa-link"
-      url: "https://marcusbooke.github.io/"
+      url: "https://marcusbooke.github.io/continuumetcetera/"
 
 defaults:
   # _posts
