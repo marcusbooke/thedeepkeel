@@ -58,9 +58,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Practice with metronome."
   links:
-    - label: "www"
+#    - label: "www"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://marcusbooke.github.io/continuumetcetera/"
+    - label: "Ikigai in Okinawa"
       icon: "fas fa-fw fa-link"
-      url: "https://marcusbooke.github.io/continuumetcetera/"
+      url: "https://www.youtube.com/playlist?list=PLAUQLxFKQjkDa7WLRL11uNdJm6rtJTyIh"     
 
 footer:
   links:
