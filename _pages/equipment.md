@@ -2,6 +2,7 @@
 permalink: /equipment/
 title: "Equipment"
 toc: true
+toc_float: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
