@@ -31,13 +31,13 @@ Mode: Omnidirectional, on desk near plant
 
 #### GarageBand 
 **Track:**
-Compressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5  
-Channel EQ: Clean up guitar  
+Compressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5    
+Channel EQ: Clean up guitar    
 **Master:**
-Channel EQ: Final Mix, Ballad
-Stereo Spread: Medium LF & HF Spread
-Limiter: For Vocals +2 and -0.1
-Mode: Omnidirectional, on desk near plant
+Channel EQ: Final Mix, Ballad  
+Stereo Spread: Medium LF & HF Spread  
+Limiter: For Vocals +2 and -0.1  
+Mode: Omnidirectional, on desk near plant  
 
 
 #### Video
