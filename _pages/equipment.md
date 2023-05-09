@@ -301,13 +301,13 @@ Source: http://www.gibson.com/Products/Electric-Guitars/2018/USA/Les-Paul-Tribu
 
 http://legacy.gibson.com/Products/Electric-Guitars/2018/USA/Les-Paul-Tribute-2018.aspx
 
-### Body
+**Body**  
 
 Wood Species: Plain Maple Top with a Mahogany Body
 
 Finish: Satin Nitrocellulose Lacquer | Satin Faded Honeyburst
 
-### Neck
+**Neck**  
 
 Material: Mahogany
 
@@ -331,7 +331,7 @@ End of Board Width: 2.26"
 
 Inlays: Acrylic Trapezoids
 
-### Hardware
+**Hardware**  
 
 Finish: Nickel
 
@@ -351,7 +351,7 @@ Switch Washer: Cream (not mounted)
 
 Jack Plate Cover: Cream
 
-### Electronics
+**Electronics**  
 
 Neck Pickup: 490R
 
@@ -359,7 +359,7 @@ Bridge Pickup: 498T
 
 Controls: 2 volumes, 2 tones, 1 toggle switch
 
-### Accessories
+**Accessories**  
 
 Strings: .09, .011, .016, .026, .036, .046
 
@@ -367,7 +367,7 @@ Case: Soft Case
 
 Other: Includes Gibson Accessory Kit
 
-### SKUs
+**SKUs**  
 
 LPTR18FHNH1, LPTR18SGNH1
 
@@ -375,7 +375,7 @@ LPTR18FHNH1, LPTR18SGNH1
 
 ![Zoom_G3Xn_Top.jpg](https://thedeepkeel.files.wordpress.com/2018/12/Zoom_G3Xn_Top.jpg)
 
-### Features At A Glance
+**Features At A Glance**  
 
 * 70 (68 effects, 1 looper pedal, and 1 rhythm pedal) onboard high-quality digital effects, including distortion, overdrive, EQ, compression, delay, reverb, flanging, phasing, and chorusing
 * 5 new amp emulators plus 5 cabinet emulators
