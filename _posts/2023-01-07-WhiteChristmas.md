@@ -29,17 +29,17 @@ Fender Blues Jr III: 7-2-2-5-5-1
 
 #### Microphone  
 Blue Yeti   
-Gain: 9 o'clock 
+Gain: 9 o'clock   
 Mode: Omnidirectional, on desk near plant
 
 #### GarageBand 
 **Track**: 
-Compressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5
-Channel EQ: Warm 
-**Master**: OFF
-Channel EQ: Final Mix, Ballad
-Stereo Spread: Medium LF & HF Spread
-Limiter: For Vocals +2 and -0.1
+Compressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5  
+Channel EQ: Warm  
+**Master**: OFF  
+Channel EQ: Final Mix, Ballad  
+Stereo Spread: Medium LF & HF Spread  
+Limiter: For Vocals +2 and -0.1  
 
 #### Video
 {% include video id="0sHthkYBN8I" provider="youtube" %}
