@@ -7,7 +7,7 @@ tags:
   - Fingerstyle
   - Christmas
 ---
-`Nocturne Recorded on: 2023-January-07`
+`White Christmas Recorded on: 2023-January-07`
 
 Tempo: 40 bpm   
 Measures: 1-4
